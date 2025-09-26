@@ -1,4 +1,4 @@
-# CPSC 3220 — Project 1  
+# CPSC 3220 - Project 1  
 ### Heap-Leak Counter & Syscall Tracer  
 **Author:** Kylie Gilbert · kgilbe3@g.clemson.edu · Fall 2025  
 
